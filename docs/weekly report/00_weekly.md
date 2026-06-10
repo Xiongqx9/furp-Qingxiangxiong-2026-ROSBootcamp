@@ -1,5 +1,7 @@
 # Week 0
 本周完成了:
+
+
 1.了解了下面这些概念
 
 虚拟机：虚拟隔离的独立电脑环境
@@ -13,6 +15,7 @@ ROS2 Humble：Ubuntu22.04 配套机器人开发框架
 Node：ROS 独立功能程序
 
 Topic：节点消息传输通道
+
 
 2.虚拟机环境部署已完成
 
@@ -29,5 +32,6 @@ Topic：节点消息传输通道
 | chmod | 修改文件权限 |
 | sudo apt update | 更新软件源列表 |
 | sudo apt install xxx | 安装软件包 |
+
 
 还在尝试部署ROS2 Humble
