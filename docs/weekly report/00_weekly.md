@@ -1,11 +1,17 @@
 # Week 0
 本周完成了:
 1.了解了下面这些概念
+
 虚拟机：虚拟隔离的独立电脑环境
+
 Ubuntu：Linux 开源机器人适配系统
+
 Terminal：系统命令行交互窗口，Ctrl+Alt+T 打开
+
 ROS2 Humble：Ubuntu22.04 配套机器人开发框架 
+
 Node：ROS 独立功能程序
+
 Topic：节点消息传输通道
 
 2.虚拟机环境部署已完成
