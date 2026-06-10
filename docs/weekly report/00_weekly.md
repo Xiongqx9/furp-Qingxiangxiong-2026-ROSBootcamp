@@ -18,6 +18,7 @@ Topic：节点消息传输通道
 
 
 2.虚拟机环境部署已完成,并且在部署ROS2环境
+
 <img width="865" height="771" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/main/e2a62872de14c31ee60ec8f150f39bcb.png?raw=true" />
 
 3.了解并尝试了Linux 高频指令用途
