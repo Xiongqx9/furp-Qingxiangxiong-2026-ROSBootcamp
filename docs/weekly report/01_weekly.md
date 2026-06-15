@@ -16,7 +16,11 @@ ros2 run demo_nodes_py talker 和 listener
 
 2.尝试了海龟模拟器---turtlesim
 
-运行代码:ros2 run turtlesim turtlesim_node
+运行代码:
+
+展开图板 ros2 run turtlesim turtlesim_node
+
+遥控海龟 ros2 run turtlesim turtle_teleop_key
 
 
 
