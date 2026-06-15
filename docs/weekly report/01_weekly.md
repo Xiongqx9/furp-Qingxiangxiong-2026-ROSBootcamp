@@ -12,3 +12,4 @@ source /opt/ros/humble/setup.bash
 ros2 run demo_nodes_py talker 和 listener
 <img width="865" height="771" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/main/e2a62872de14c31ee60ec8f150f39bcb.png?raw=true" />
 
+
