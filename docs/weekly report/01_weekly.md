@@ -10,5 +10,5 @@ source /opt/ros/humble/setup.bash
 说写代码为:
 source /opt/ros/humble/setup.bash
 ros2 run demo_nodes_py talker 和 listener
+<img width="865" height="771" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/main/e2a62872de14c31ee60ec8f150f39bcb.png?raw=true" />
 
-https://github.com/Xiongqx9/xqx-project/blob/3a4e121eea3fc5082e32d1b11e1c4c81156a4b32/19b8fe18054d61beacb480a124ab2776.png
