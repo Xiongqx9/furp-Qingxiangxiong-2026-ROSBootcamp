@@ -14,4 +14,9 @@ ros2 run demo_nodes_py talker 和 listener
 
 关闭终端 ctrl+c
 
+2.尝试了海龟模拟器---turtlesim
+
+运行代码:ros2 run turtlesim turtlesim_node
+
+
 
