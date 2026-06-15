@@ -19,8 +19,8 @@ ros2 run demo_nodes_py talker 和 listener
 运行代码:
 
 展开图板 ros2 run turtlesim turtlesim_node
-
 遥控海龟 ros2 run turtlesim turtle_teleop_key
+
 <img width="600" height="400" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/a6bbd90f700b21616b2bda9d99459063657659ec/03c50d59bedc4cea0475143c4e4a183e.png" />
 
 
