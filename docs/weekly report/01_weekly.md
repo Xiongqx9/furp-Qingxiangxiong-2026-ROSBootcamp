@@ -27,6 +27,7 @@ ros2 run demo_nodes_py talker 和 listener
 
 3.Python 发布节点 publisher.py 和 订阅节点 subscriber.py
 以及多节点启动 launch 文件 talk_listen.launch.py （以听说为例）
+<img width="600" height="400" alt="image" src=" https://github.com/Xiongqx9/xqx-project/blob/10380c974b6dc7ac67e1fe27067050f12df1ac81/0bad31b9c30ce2e977faabce6988668a.png"/>
 
 
 4.package 创建与编译指令
