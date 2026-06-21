@@ -10,7 +10,7 @@ source /opt/ros/humble/setup.bash
 说写代码为:
 source /opt/ros/humble/setup.bash
 ros2 run demo_nodes_py talker 和 listener
-<img width="600" height="400" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/3a4e121eea3fc5082e32d1b11e1c4c81156a4b32/19b8fe18054d61beacb480a124ab2776.png" />
+<img width="600" height="400" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/3a4e121eea3fc5082e32d1b11e1c4c81156a4b32/19b8fe18054d61beacb480a124ab2776.png"/>
 
 关闭终端 ctrl+c
 
@@ -27,7 +27,7 @@ ros2 run demo_nodes_py talker 和 listener
 
 3.Python 发布节点 publisher.py 和 订阅节点 subscriber.py
 以及多节点启动 launch 文件 talk_listen.launch.py （以听说为例）
-<img width="600" height="400" alt="image" src="https://github.com/Xiongqx9/xqx-project/blob/a6bbd90f700b21616b2bda9d99459063657659ec/03c50d59bedc4cea0475143c4e4a183e.png" />
+
 
 4.package 创建与编译指令
 
