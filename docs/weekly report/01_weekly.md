@@ -31,20 +31,32 @@ ros2 run demo_nodes_py talker 和 listener
 
 4. package 创建与编译指令
 
-# 1. 创建工作空间
+创建工作空间
+
 mkdir -p ~/ros2_ws/src && cd ~/ros2_ws/src
-# 2. 创建Python功能包
+
+创建Python功能包
+
 ros2 pkg create --build-type ament_python my_pkg --dependencies rclpy std_msgs
-# 3. 将上面publisher.py、subscriber.py放入my_pkg/my_pkg/
-# 4. 在my_pkg下新建launch文件夹，放入launch文件
-# 5. 编译+刷新环境
+
+将上面publisher.py、subscriber.py放入my_pkg/my_pkg/
+
+在my_pkg下新建launch文件夹，放入launch文件
+
+编译+刷新环境
+
 cd ~/ros2_ws
+
 colcon build --symlink-install
+
 source install/setup.bash
-# 6. 一键启动两个节点
+
+一键启动两个节点
+
 ros2 launch my_pkg talk_listen.launch.py
 
 5. 认识概念
+
 Node（节点）
 
 ROS2 最小独立可执行程序进程，机器人所有功能都封装在节点中，如发布消息、接收消息、导航、视觉识别都是独立节点。
